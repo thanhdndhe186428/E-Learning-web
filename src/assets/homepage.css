@@ -1,0 +1,12 @@
+.sidebar a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.text-orange {
+  color: #f57c00 !important;
+}
+
+.sidebar a:hover {
+  color: #ff9800;
+}

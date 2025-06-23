@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "student@gmail.com",
+      "password": "12345678",
+      "role": "student"
+    },
+    {
+      "id": "2",
+      "email": "teacher@gmail.com",
+      "password": "12345678",
+      "role": "teacher"
+    },
+    {
+      "id": "3",
+      "email": "admin@gmail.com",
+      "password": "12345678",
+      "role": "admin"
+    },
+    {
+      "id": "e1a2",
+      "email": "tungngu@gmail.com",
+      "password": "tungngu88",
+      "role": "student"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "HTML CSS Pro",
+      "type": "pro",
+      "oldPrice": 2500000,
+      "price": 1299000,
+      "author": "Sơn Đặng",
+      "students": 590,
+      "duration": "116h50p"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript Pro",
+      "type": "pro",
+      "oldPrice": 3299000,
+      "price": 1399000,
+      "author": "Sơn Đặng",
+      "students": 219,
+      "duration": "43h0p"
+    },
+    {
+      "id": "3",
+      "title": "Kiến Thức Nền Tảng",
+      "type": "free",
+      "students": 100000
+    }
+  ]
+}
